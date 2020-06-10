@@ -6,5 +6,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code|Keywords|Person liable*|
 |:-----|:---------|:-----|:-------|
-|(DBPN)Deep Back-Projection Networks For Super-Resolution|[cvpr2018](https://arxiv.org/abs/1803.02735)|[pytorch](https://github.com/alterzero/DBPN-Pytorch)
-|back projection|
+|(DBPN)Deep Back-Projection Networks For Super-Resolution|[cvpr2018](https://arxiv.org/abs/1803.02735)|[pytorch](https://github.com/alterzero/DBPN-Pytorch)|back projection|
