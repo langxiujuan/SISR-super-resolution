@@ -11,3 +11,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining|[CVPR2020](https://arxiv.org/abs/2006.01424)|[code](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)|未开源，我还没看|
 |()Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy|[CVPR2020](https://arxiv.org/abs/2004.00448)|[code](https://github.com/clovaai/cutblur)|我还没看|
 |(SPSR)Structure-Preserving Super Resolution with Gradient Guidance|[CVPR2020](https://arxiv.org/abs/2003.13081)|[pytorch](https://github.com/Maclory/SPSR)|structure preserve|
+|(RealSR)real word super resolution via kernel estimation and noise injection|[CVPR NTIRE 2020 Challenge](https://github.com/jixiaozhong/RealSR)|[pytorch](https://github.com/jixiaozhong/RealSR)|提出新的数据集制作方案|
