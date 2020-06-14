@@ -20,7 +20,15 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Deep Unfolding Network for Image Super-Resolution|[CVPR2020]()|[pytorch]( https://github.com/cszn/USRNet)|我还没看|Kai Zhang, Luc Van Gool|苏黎世联邦理工学院|
 |Unified Dynamic Convolutional Network for Super-Resolution With Variational Degradations|[CVPR2020]()|****|我还没看|Yu-Syuan Xu, Shou-Yao Roy Tseng|中国台湾联发科技|
 |Learning Texture Transformer Network for Image Super-Resolution|[CVPR2020]()|****|我还没看|Fuzhi Yang, Huan Yang|上海交通大学；微软研究院|
-|Robust Reference-Based Super-Resolution With Similarity-Aware Deformable Convolution|[CVPR2020]|****|我还没看|Gyumin Shim, Jinsun Park|韩国科学技术院|
+|Robust Reference-Based Super-Resolution With Similarity-Aware Deformable Convolution|CVPR2020|****|我还没看|Gyumin Shim, Jinsun Park|韩国科学技术院|
 |video SR||||||
-|(TDAN)TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution|[CVPR2020]()|[pytroch](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)|我还没看|Yapeng Tian, Yulun Zhang|罗切斯特大学；东北大学|
+|(TDAN)TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution|CVPR2020|[pytroch](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)|我还没看|Yapeng Tian, Yulun Zhang|罗切斯特大学；东北大学|
+|Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution|[CVPR2020]()|[code](https://github.com/Mukosame/ZoomingSlowMo-CVPR-2020)|我还没看|Xiaoyu Xiang, Yapeng Tian|普渡大学；罗切斯特大学；东北大学|
+|Video Super-Resolution With Temporal Group Attention|[CVPR2020]|[code](https://github.com/junpan19/VSR_TGA)|Takashi Isobe, Songjiang Li, Xu Jia|清华；华为诺亚方舟实验室|
+|人脸超分辨率||||||
+|Learning to Have an Ear for Face Super-Resolution|[CVPR2020]|[code](https://github.com/gmeishvili/ear_for_face_super_resolution)|[website](https://gmeishvili.github.io/ear_for_face_super_resolution/index.html)|Givi Meishvili, Simon Jenni, Paolo Favaro|伯尔尼大学|
+|Deep Face Super-Resolution With Iterative Collaboration Between Attentive Recovery and Landmark Estimation|[CVPR2020]|[pytorch](https://github.com/Maclory/Deep-Iterative-Collaboration)|我还没看|Cheng Ma, Zhenyu Jiang|清华大学等|
+|深度图超分辨率||||||
+|Channel Attention Based Iterative Residual Learning for Depth Map Super-Resolution|[CVPR2020]|****|我还没看|Xibin Song, Yuchao Dai|百度；澳大利亚国立大学等|
+
 
