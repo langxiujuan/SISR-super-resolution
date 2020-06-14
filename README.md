@@ -34,6 +34,8 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(LFSSR-ATO)Light Field Spatial Super-Resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization|[CVPR2020]|[pytorch](https://github.com/jingjin25/LFSSR-ATO)|我还没看|Jing Jin, Junhui Hou|香港城市大学；香港浸会大学|
 |零样本超分辨率||||||
 |(MZSR)Meta-Transfer Learning for Zero-Shot Super-Resolution|[CVPR2020]|[tensorflow](https://github.com/JWSoh/MZSR)|我还没看| Jae Woong Soh, Sunwoo Cho, Nam Ik Ch|首尔大学|
+|超分辨率用于语义分割||||||
+|(DSRL)Dual Super-Resolution Learning for Semantic Segmentation|[CVPR2020]|[github](https://github.com/wanglixilinx/DSRL)|我还没看|Li Wang, Dong Li|Xilinx Inc；中科院|
 
 
 
