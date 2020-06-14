@@ -14,4 +14,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(RealSR)real word super resolution via kernel estimation and noise injection|[CVPR NTIRE 2020 Challenge](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Ji_Real-World_Super-Resolution_via_Kernel_Estimation_and_Noise_Injection_CVPRW_2020_paper.pdf)|[pytorch](https://github.com/jixiaozhong/RealSR)|提出新的数据集制作方案|
 |(RND)Closed-Loop Matters: Dual Regression Networks for Single Image Super-Resolution|[CVPR2020](https://arxiv.org/pdf/2003.07018.pdf)|[pytorch](https://github.com/guoyongcs/DRN)|我还没看|Yong Guo, Jian Chen|
 |（EventSR）EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning|[CVPR2020video](https://www.youtube.com/watch?v=OShS_MwHecs)|[dataset](https://www.youtube.com/watch?v=OShS_MwHecs)|我还没看| Lin Wang, Tae-Kyun Kim|
-|Unpaired Image Super-Resolution Using Pseudo-Supervision|[CVPR2020]()|[*]()|我还没看|Shunta Maeda|
+|Unpaired Image Super-Resolution Using Pseudo-Supervision|[CVPR2020]()|[**]()|我还没看|Shunta Maeda|
+|Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers|[CVPR2020]()|*|我还没看|Shady Abu Hussein, Tom Tirer|
+|Residual Feature Aggregation Network for Image Super-Resolution|[CVPR2020]()|**|我还没看|Jie Liu, Wenjie Zhang|
+|Deep Unfolding Network for Image Super-Resolution|[CVPR2020]()|[pytorch]( https://github.com/cszn/USRNet)|我还没看|Kai Zhang, Luc Van Gool|
