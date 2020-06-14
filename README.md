@@ -21,7 +21,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Unified Dynamic Convolutional Network for Super-Resolution With Variational Degradations|[CVPR2020]()|****|我还没看|Yu-Syuan Xu, Shou-Yao Roy Tseng|中国台湾联发科技|
 |Learning Texture Transformer Network for Image Super-Resolution|[CVPR2020]()|****|我还没看|Fuzhi Yang, Huan Yang|上海交通大学；微软研究院|
 |Robust Reference-Based Super-Resolution With Similarity-Aware Deformable Convolution|CVPR2020|****|我还没看|Gyumin Shim, Jinsun Park|韩国科学技术院|
-|video SR||||||
+|视频 SR||||||
 |(TDAN)TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution|CVPR2020|[pytroch](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)|我还没看|Yapeng Tian, Yulun Zhang|罗切斯特大学；东北大学|
 |Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution|[CVPR2020]()|[code](https://github.com/Mukosame/ZoomingSlowMo-CVPR-2020)|我还没看|Xiaoyu Xiang, Yapeng Tian|普渡大学；罗切斯特大学；东北大学|
 |Video Super-Resolution With Temporal Group Attention|[CVPR2020]|[code](https://github.com/junpan19/VSR_TGA)|Takashi Isobe, Songjiang Li, Xu Jia|清华；华为诺亚方舟实验室|
@@ -30,5 +30,10 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Deep Face Super-Resolution With Iterative Collaboration Between Attentive Recovery and Landmark Estimation|[CVPR2020]|[pytorch](https://github.com/Maclory/Deep-Iterative-Collaboration)|我还没看|Cheng Ma, Zhenyu Jiang|清华大学等|
 |深度图超分辨率||||||
 |Channel Attention Based Iterative Residual Learning for Depth Map Super-Resolution|[CVPR2020]|****|我还没看|Xibin Song, Yuchao Dai|百度；澳大利亚国立大学等|
+|光场超分辨率||||||
+|(LFSSR-ATO)Light Field Spatial Super-Resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization|[CVPR2020]|[pytorch](https://github.com/jingjin25/LFSSR-ATO)|我还没看|Jing Jin, Junhui Hou|香港城市大学；香港浸会大学|
+|零样本超分辨率||||||
+|(MZSR)Meta-Transfer Learning for Zero-Shot Super-Resolution|[CVPR2020]|[tensorflow](https://github.com/JWSoh/MZSR)|我还没看| Jae Woong Soh, Sunwoo Cho, Nam Ik Ch|首尔大学|
+
 
 
